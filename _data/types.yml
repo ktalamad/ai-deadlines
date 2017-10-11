@@ -9,4 +9,6 @@
   sub: RO
 - name: Speech/SigProc
   sub: SP
+- name: Reasoning & Inference
+  sub: RI
 
